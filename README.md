@@ -30,3 +30,21 @@ In addition to this, arrange to have a code review partner who is up-to-date on 
 This is equally important. Instead of using chat tools to talk about updates that need to happen to a PR, Github should be used. Extensively. The exchange will be visible to all team members and they will benefit from it.
 
 Having small PRs will encourage people to take a look at them. Even if they're not working on the same feature, they will be able to comprehend what you aimed to do.
+
+
+##Remotee
+
+
+###**1. Be available**
+
+This is a no-brainer really, but when you're working remotely, make sure you're available and your team gets timely responses from you. This means you should make sure to have a good enough internet connection to allow for skyping and screensharing and have data coverage for your phone so you can receive email and chat messages.
+
+###**2. Be flexible**
+
+Even when working in a different time zone, you should try and aim for some overlap with your team. Ideally between 2-4 hours. However, be prepared to work outside of your normal schedule if something important comes up.
+
+When moving to a new place be prepared to work less the first week in order to get settled in. Generally allow for a buffer. If working 40 hours a week, give yourself 45. When working 32 hours, aim for 37.
+
+###**2. Be realistic**
+
+When your team members rely on you and you can't communicate as much on a day-to-day basis, it's important to be realistic about the work you can get done. Especially if others depend on your work. If you're in a different country or visiting family, you may feel obliged to be more active outside of work instead of staying in late to get work done. When in doubt, it's always a good idea to work on something that isn't crucial to the current sprint.
